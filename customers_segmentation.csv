@@ -1,0 +1,1001 @@
+Age,Income,Num_Purchases,Website_Visits,Feedback_Score,Region,Education_Level,Marital_Status,Annual_Spend,Loyalty_Status,Preferred_Channel
+56,125186,19,26,4,South,Master,Divorced,25591,Bronze,In-Store
+69,54674,3,69,4,East,Bachelor,Divorced,27979,Gold,Online
+46,55854,8,93,2,West,Bachelor,Married,21835,Bronze,In-Store
+32,66271,2,64,3,South,PhD,Divorced,38693,Bronze,Online
+60,93688,8,37,3,South,PhD,Married,13202,Bronze,In-Store
+25,58518,13,84,1,East,Bachelor,Married,36414,Platinum,In-Store
+38,131076,13,49,6,West,Master,Single,26666,Gold,Online
+56,30267,1,21,8,South,High School,Single,20290,Gold,In-Store
+36,110825,6,74,3,South,Bachelor,Married,19130,Gold,In-Store
+40,21062,19,64,5,West,Master,Single,38077,Silver,In-Store
+28,136664,16,5,1,South,PhD,Married,20396,Silver,Online
+28,70448,8,70,7,West,Bachelor,Single,18952,Gold,Online
+41,115462,1,90,1,West,PhD,Divorced,28122,Bronze,Online
+53,26229,16,4,9,East,High School,Divorced,30381,Bronze,Online
+57,76793,9,39,8,North,PhD,Married,46435,Gold,Online
+41,134813,13,35,7,West,High School,Married,41078,Platinum,In-Store
+20,67915,11,1,7,East,PhD,Single,24267,Platinum,Online
+39,24632,13,24,5,North,PhD,Single,48735,Bronze,Online
+19,124592,10,57,5,South,High School,Married,43007,Bronze,In-Store
+41,23596,4,70,5,North,PhD,Divorced,8088,Silver,In-Store
+61,129779,6,41,1,West,Master,Divorced,32818,Platinum,Online
+47,26168,7,54,8,West,PhD,Married,13822,Bronze,In-Store
+55,128099,5,46,1,West,Bachelor,Divorced,37589,Bronze,In-Store
+19,27561,11,60,4,West,PhD,Married,2436,Gold,In-Store
+38,93794,13,60,9,West,Master,Single,46665,Silver,Online
+50,102152,19,57,9,East,Bachelor,Divorced,28281,Platinum,In-Store
+29,145036,10,31,5,West,Master,Divorced,23481,Platinum,In-Store
+39,144049,10,84,4,East,Bachelor,Single,31469,Silver,Online
+61,46734,11,24,3,South,PhD,Single,19867,Bronze,In-Store
+42,26371,7,89,3,West,Master,Divorced,41487,Platinum,In-Store
+66,138894,18,36,5,West,PhD,Divorced,23766,Platinum,Online
+44,46069,4,85,1,North,Bachelor,Married,30737,Platinum,Online
+59,99905,2,30,5,South,Master,Married,22213,Gold,Online
+45,32910,14,24,6,West,High School,Divorced,29355,Silver,In-Store
+33,93479,13,30,7,West,Master,Married,23537,Platinum,Online
+32,97735,12,86,9,South,PhD,Single,3794,Silver,Online
+64,101264,7,92,3,East,High School,Married,45296,Bronze,In-Store
+68,43275,2,7,2,West,High School,Married,33324,Silver,In-Store
+61,92274,13,35,3,North,Bachelor,Divorced,31858,Gold,In-Store
+69,101449,14,55,9,West,High School,Married,43850,Gold,In-Store
+20,120776,17,92,7,North,High School,Divorced,14018,Silver,In-Store
+54,80004,9,14,9,North,Bachelor,Divorced,18481,Gold,Online
+68,82981,17,10,2,West,Master,Divorced,16584,Platinum,Online
+24,104659,8,80,5,West,PhD,Single,10850,Gold,Online
+38,74553,2,16,4,North,Master,Married,26701,Bronze,In-Store
+26,68447,13,54,2,South,High School,Married,42223,Silver,Online
+56,54529,3,95,9,South,PhD,Married,44952,Silver,In-Store
+35,146394,16,89,9,West,Master,Divorced,46975,Bronze,In-Store
+21,95703,6,77,6,East,PhD,Single,1160,Bronze,Online
+42,96090,19,70,6,South,High School,Divorced,26832,Bronze,Online
+31,37260,7,44,8,West,Master,Married,32210,Bronze,In-Store
+67,132581,10,73,6,South,PhD,Divorced,23290,Platinum,In-Store
+26,23812,9,45,1,East,PhD,Divorced,30441,Gold,Online
+43,48024,2,56,4,West,Master,Married,25886,Gold,Online
+19,78656,15,84,7,East,Master,Divorced,33394,Platinum,In-Store
+37,136148,5,82,2,West,High School,Divorced,9418,Bronze,In-Store
+45,47285,4,57,9,East,Bachelor,Single,8081,Silver,In-Store
+64,112436,4,21,8,South,PhD,Divorced,38180,Silver,In-Store
+24,136421,18,68,8,South,Master,Single,11114,Silver,Online
+61,21605,4,50,7,East,Master,Married,19722,Bronze,Online
+25,91158,17,33,4,East,Master,Single,22972,Platinum,In-Store
+64,92303,12,91,2,East,PhD,Divorced,18985,Platinum,In-Store
+52,47139,17,7,3,West,High School,Married,6888,Platinum,Online
+31,97149,10,70,6,South,Bachelor,Divorced,4718,Gold,In-Store
+34,76138,1,15,5,West,PhD,Divorced,33147,Gold,In-Store
+53,138205,18,82,8,South,High School,Single,44382,Gold,In-Store
+67,96125,18,32,6,North,PhD,Divorced,19309,Gold,In-Store
+57,33918,14,75,6,West,PhD,Single,20299,Silver,In-Store
+21,105655,15,20,1,South,Master,Married,42211,Silver,In-Store
+19,47446,12,88,4,South,High School,Married,23036,Platinum,Online
+23,144040,4,15,5,West,Master,Divorced,20885,Gold,In-Store
+59,33046,3,48,3,West,Master,Single,30346,Platinum,Online
+21,149922,12,71,9,South,High School,Divorced,48971,Bronze,Online
+46,44818,7,21,1,West,Master,Divorced,27691,Gold,Online
+35,120894,11,42,6,East,Master,Divorced,41042,Gold,In-Store
+43,135751,1,26,6,West,Bachelor,Divorced,49527,Platinum,In-Store
+61,24324,6,14,5,West,High School,Single,18986,Platinum,In-Store
+51,96323,15,57,5,West,High School,Divorced,28846,Bronze,Online
+27,29111,15,37,5,South,Master,Married,48872,Platinum,Online
+53,58110,19,58,6,East,Master,Single,42401,Gold,In-Store
+31,36389,11,21,8,North,High School,Divorced,9192,Silver,In-Store
+48,142177,2,82,2,North,High School,Single,40269,Bronze,Online
+65,61427,14,69,6,East,PhD,Divorced,39487,Bronze,Online
+32,99579,2,3,1,East,High School,Married,10412,Gold,Online
+25,48746,4,87,4,East,PhD,Married,16963,Silver,In-Store
+31,142883,17,90,3,South,Master,Married,34623,Platinum,Online
+40,107886,3,37,9,North,Bachelor,Single,2017,Platinum,Online
+57,127141,13,88,3,East,Bachelor,Married,6279,Silver,Online
+38,20117,9,49,6,South,PhD,Divorced,11412,Silver,In-Store
+33,145808,7,19,1,North,Master,Divorced,8712,Gold,In-Store
+62,132221,15,89,6,West,Master,Divorced,16817,Platinum,In-Store
+35,104471,11,85,4,South,Master,Single,29080,Gold,Online
+64,132613,2,12,8,North,High School,Single,7624,Platinum,Online
+41,33234,15,61,9,South,Master,Married,30126,Platinum,Online
+43,149597,14,41,4,North,High School,Single,17579,Silver,Online
+42,123864,11,33,6,North,PhD,Divorced,16131,Gold,In-Store
+62,73441,3,50,1,West,Bachelor,Divorced,38462,Silver,Online
+58,20846,17,68,4,South,PhD,Divorced,47815,Gold,Online
+46,30954,12,71,7,East,Master,Single,38419,Platinum,In-Store
+32,99239,15,86,1,West,Master,Divorced,24375,Bronze,Online
+62,133689,16,33,8,West,PhD,Married,27093,Bronze,Online
+18,66514,5,81,6,North,High School,Single,46494,Gold,Online
+42,108236,6,24,5,East,High School,Divorced,33525,Gold,In-Store
+24,117579,19,61,9,South,High School,Divorced,30030,Silver,Online
+26,148644,5,61,2,East,Bachelor,Single,45067,Platinum,In-Store
+41,26469,3,98,5,East,Bachelor,Single,6207,Bronze,Online
+18,50105,1,28,6,East,Master,Married,11897,Silver,In-Store
+61,62101,6,58,7,East,PhD,Single,27639,Gold,In-Store
+25,84323,15,43,5,East,PhD,Divorced,3792,Platinum,In-Store
+41,111922,2,41,9,North,Master,Married,1420,Silver,Online
+28,78067,3,39,1,North,High School,Divorced,30224,Silver,Online
+68,69376,17,86,7,West,Bachelor,Divorced,20198,Gold,In-Store
+34,65587,12,49,7,North,PhD,Divorced,36608,Platinum,In-Store
+25,56976,18,17,4,West,Master,Single,47205,Bronze,Online
+52,124587,15,98,9,West,High School,Single,18415,Silver,In-Store
+52,147534,12,70,5,South,High School,Divorced,41407,Gold,Online
+50,87584,16,70,4,East,Bachelor,Single,18875,Silver,Online
+22,124537,8,98,7,North,Bachelor,Divorced,5975,Gold,In-Store
+59,98477,14,65,4,South,Master,Single,27461,Gold,In-Store
+56,130911,17,74,3,North,Master,Single,22331,Gold,Online
+58,62533,8,85,9,West,High School,Single,17893,Platinum,Online
+45,21828,15,5,8,North,High School,Married,19243,Bronze,Online
+24,21917,14,2,1,East,PhD,Single,16535,Platinum,In-Store
+26,40618,18,22,7,West,High School,Married,6061,Bronze,Online
+25,52254,7,57,9,West,Master,Married,2858,Gold,In-Store
+29,125292,3,66,8,South,Bachelor,Married,26489,Bronze,In-Store
+51,136714,12,74,8,East,Master,Divorced,14678,Platinum,Online
+50,67362,3,98,6,West,PhD,Single,35833,Silver,In-Store
+65,40128,14,16,4,East,PhD,Divorced,48159,Platinum,In-Store
+40,143781,15,51,8,North,Bachelor,Married,20350,Platinum,In-Store
+41,131281,14,39,3,East,Master,Single,14346,Platinum,In-Store
+54,79383,7,86,9,West,PhD,Divorced,49005,Platinum,Online
+52,85545,17,76,2,South,Master,Married,7773,Platinum,Online
+61,102180,12,88,2,West,PhD,Divorced,30465,Bronze,In-Store
+57,107958,4,40,7,East,Bachelor,Divorced,10788,Bronze,In-Store
+39,29865,9,38,4,East,PhD,Single,33343,Silver,In-Store
+44,22219,6,60,8,West,Master,Single,47862,Platinum,In-Store
+52,59809,16,59,9,East,Master,Divorced,38210,Platinum,In-Store
+18,136748,2,10,7,North,PhD,Single,10247,Silver,Online
+52,25287,8,99,5,West,High School,Single,46963,Silver,Online
+54,146593,11,64,8,South,Bachelor,Divorced,42983,Gold,Online
+64,54387,13,63,4,West,Bachelor,Single,36972,Silver,Online
+31,28512,17,49,2,North,PhD,Single,17959,Silver,In-Store
+20,21342,8,64,6,North,PhD,Married,24807,Silver,In-Store
+18,83076,18,32,9,North,High School,Single,35133,Gold,Online
+22,128872,18,7,1,North,Bachelor,Married,25218,Bronze,Online
+43,39216,14,21,7,North,High School,Divorced,22734,Gold,Online
+31,137512,15,20,9,South,Bachelor,Married,23828,Bronze,In-Store
+56,136682,6,26,9,East,PhD,Divorced,18400,Silver,In-Store
+44,113070,11,68,3,North,Bachelor,Single,21002,Gold,In-Store
+26,99767,13,86,5,North,Bachelor,Single,33793,Gold,Online
+32,117829,1,15,8,West,Bachelor,Married,37492,Bronze,Online
+32,46614,6,85,8,South,High School,Divorced,33217,Gold,In-Store
+43,56258,9,79,4,South,High School,Single,37226,Gold,In-Store
+59,113789,8,86,1,East,Bachelor,Married,28932,Platinum,In-Store
+30,62078,11,92,1,South,Master,Married,44327,Bronze,Online
+68,126288,19,14,4,West,High School,Married,31875,Gold,In-Store
+49,103524,9,27,6,West,PhD,Single,26046,Gold,In-Store
+56,116573,17,40,8,East,PhD,Divorced,24664,Silver,Online
+66,32219,12,58,6,West,Bachelor,Single,25453,Platinum,In-Store
+69,20235,14,28,9,North,PhD,Single,5746,Platinum,In-Store
+49,62929,15,26,9,North,High School,Divorced,24973,Silver,In-Store
+21,147309,16,63,2,West,Master,Married,14217,Silver,In-Store
+47,87444,1,66,1,East,Master,Single,24362,Silver,Online
+54,28567,10,25,2,South,Master,Married,42835,Silver,In-Store
+40,121834,8,3,5,East,PhD,Married,10133,Platinum,Online
+56,90792,18,72,4,South,Bachelor,Divorced,36809,Gold,In-Store
+62,85441,1,44,4,West,PhD,Divorced,41533,Gold,Online
+32,104555,2,97,9,West,Bachelor,Divorced,6404,Silver,In-Store
+60,93698,1,42,8,North,Master,Married,34339,Bronze,In-Store
+46,144450,1,99,6,South,High School,Married,29725,Silver,Online
+53,137248,9,6,1,East,PhD,Single,9796,Gold,In-Store
+30,25415,13,39,2,West,High School,Married,46380,Bronze,In-Store
+49,56159,1,52,6,East,Master,Divorced,49073,Silver,Online
+24,63925,13,23,2,North,Bachelor,Divorced,22364,Bronze,In-Store
+68,146523,7,89,5,South,High School,Divorced,42341,Silver,In-Store
+39,25951,2,50,5,South,PhD,Divorced,2236,Platinum,In-Store
+45,107388,6,43,6,West,High School,Married,3380,Gold,In-Store
+19,28007,7,19,6,South,High School,Divorced,40945,Silver,In-Store
+59,146730,14,69,6,West,PhD,Single,15538,Bronze,Online
+62,61832,18,51,2,North,Bachelor,Married,12971,Gold,Online
+23,78596,15,11,3,South,PhD,Divorced,44065,Silver,In-Store
+45,141101,2,12,6,West,Master,Single,35285,Silver,In-Store
+45,50523,10,74,8,East,Bachelor,Divorced,18917,Silver,Online
+61,108861,12,8,1,West,High School,Married,39655,Silver,Online
+61,144194,17,24,1,South,PhD,Married,12486,Platinum,Online
+37,106740,8,92,2,North,Master,Single,38410,Gold,Online
+47,35524,11,41,6,South,PhD,Married,26446,Platinum,Online
+28,149028,3,36,9,South,Bachelor,Single,22703,Gold,Online
+45,39282,6,85,4,West,Master,Divorced,45191,Silver,In-Store
+42,43930,9,72,3,East,High School,Married,12399,Gold,In-Store
+56,20077,6,55,8,South,Bachelor,Divorced,39829,Bronze,In-Store
+50,125881,9,9,9,East,Master,Divorced,13685,Gold,In-Store
+18,145501,7,47,5,West,Bachelor,Married,23241,Bronze,In-Store
+44,40611,9,15,9,East,High School,Divorced,5487,Bronze,Online
+69,36984,18,48,2,West,Master,Single,13018,Platinum,Online
+30,34060,12,82,3,North,PhD,Single,31825,Gold,Online
+58,102985,8,42,7,East,PhD,Single,8750,Silver,Online
+20,104056,8,60,7,East,High School,Married,18684,Gold,Online
+56,145329,18,84,6,North,Master,Divorced,44118,Platinum,Online
+23,63303,15,70,6,East,High School,Divorced,15410,Bronze,In-Store
+25,79207,7,12,2,North,High School,Divorced,16105,Bronze,In-Store
+44,95046,11,2,6,South,Bachelor,Divorced,19913,Platinum,Online
+26,49287,16,7,4,West,PhD,Single,37028,Platinum,In-Store
+54,113709,4,80,3,North,High School,Married,48342,Gold,Online
+50,59711,6,3,2,East,Bachelor,Single,47480,Bronze,In-Store
+68,31954,3,3,1,North,High School,Single,18711,Platinum,Online
+59,93340,9,27,5,East,High School,Married,25967,Gold,Online
+61,92101,10,40,2,South,High School,Married,37023,Gold,In-Store
+41,91520,14,33,2,North,PhD,Single,37005,Silver,Online
+32,107062,11,92,7,South,Master,Divorced,27622,Bronze,In-Store
+49,122974,18,1,8,West,PhD,Married,46201,Gold,In-Store
+49,38574,12,8,8,East,Bachelor,Married,10497,Platinum,Online
+41,29184,12,32,4,East,Master,Single,17350,Bronze,Online
+58,39096,13,48,1,South,Bachelor,Divorced,49709,Platinum,Online
+69,87728,13,4,7,West,High School,Married,23696,Platinum,In-Store
+66,54016,19,94,1,North,Master,Single,28470,Gold,In-Store
+66,31246,19,70,4,North,Bachelor,Married,31889,Gold,Online
+69,65558,14,19,8,East,High School,Divorced,11224,Silver,Online
+29,138721,4,32,2,South,Bachelor,Single,42724,Platinum,Online
+56,38381,13,9,6,South,Bachelor,Single,6465,Gold,Online
+19,147796,8,12,6,North,PhD,Divorced,17882,Silver,Online
+20,56455,19,11,9,West,High School,Single,33203,Bronze,Online
+66,112263,12,46,5,West,PhD,Divorced,28944,Silver,Online
+54,24018,18,16,4,North,Master,Single,30837,Silver,In-Store
+66,31302,6,1,5,North,High School,Divorced,3944,Platinum,In-Store
+34,87506,18,63,5,South,PhD,Married,25336,Bronze,Online
+66,61157,19,21,8,West,PhD,Married,39624,Platinum,Online
+19,74917,5,30,8,North,Master,Married,45764,Platinum,In-Store
+19,112738,9,13,2,North,Bachelor,Single,32796,Silver,Online
+45,116646,3,34,7,East,Bachelor,Divorced,29789,Silver,In-Store
+40,103122,10,4,8,North,Bachelor,Divorced,46420,Gold,In-Store
+54,44519,19,28,6,North,Master,Married,25222,Silver,Online
+49,116809,3,95,5,West,PhD,Married,39845,Gold,In-Store
+50,107487,15,59,9,South,High School,Married,1135,Platinum,In-Store
+18,76819,1,27,3,West,Master,Divorced,16773,Silver,Online
+36,100910,7,69,4,South,Bachelor,Married,43060,Bronze,Online
+19,140430,12,25,9,East,Bachelor,Single,27447,Bronze,In-Store
+61,91324,17,3,6,North,High School,Married,5033,Platinum,Online
+43,25408,5,97,8,East,Master,Married,21497,Platinum,In-Store
+49,79379,4,68,7,South,Bachelor,Divorced,15178,Silver,In-Store
+23,45053,12,25,2,West,Master,Single,7546,Gold,In-Store
+49,29446,18,20,3,West,PhD,Divorced,9396,Silver,In-Store
+21,20922,17,34,1,East,Master,Single,21978,Gold,In-Store
+28,118723,19,26,9,South,PhD,Single,44331,Silver,In-Store
+34,71356,9,5,7,East,High School,Married,13882,Bronze,Online
+55,30789,4,99,1,East,PhD,Married,17945,Bronze,Online
+41,117720,2,61,3,North,PhD,Divorced,22784,Gold,Online
+22,86656,4,92,4,East,High School,Divorced,4314,Silver,Online
+69,64028,2,93,4,North,Bachelor,Divorced,19595,Platinum,In-Store
+51,84484,15,9,5,North,High School,Single,19755,Gold,In-Store
+23,52154,2,50,3,West,Master,Divorced,33311,Bronze,In-Store
+39,102870,4,6,3,North,High School,Single,46695,Gold,In-Store
+28,22336,6,83,1,North,Master,Single,31598,Silver,In-Store
+65,123677,7,60,7,West,Bachelor,Single,36449,Platinum,Online
+33,87779,10,44,1,East,Master,Single,36574,Platinum,Online
+50,39029,19,11,2,South,High School,Single,45729,Gold,Online
+26,79201,19,66,4,South,High School,Married,19639,Silver,In-Store
+23,52265,12,47,4,South,Bachelor,Single,46370,Silver,In-Store
+33,122916,3,73,5,East,High School,Single,32023,Platinum,Online
+46,132250,13,85,2,North,Bachelor,Married,10092,Bronze,In-Store
+20,136553,18,88,4,South,Bachelor,Married,7382,Silver,In-Store
+37,63872,8,98,1,East,High School,Married,43710,Platinum,Online
+53,66197,15,86,2,North,PhD,Divorced,4159,Platinum,In-Store
+36,145733,1,3,1,West,Master,Divorced,6656,Silver,Online
+43,75180,3,76,4,South,PhD,Single,2452,Silver,Online
+20,43710,8,92,4,North,Bachelor,Single,43203,Gold,Online
+36,49486,4,30,7,South,Master,Single,19706,Bronze,Online
+37,91907,16,90,9,South,PhD,Single,10862,Gold,In-Store
+49,148876,10,21,9,South,High School,Married,11219,Gold,In-Store
+24,91895,12,28,5,North,PhD,Divorced,24481,Platinum,In-Store
+69,84435,14,90,1,East,Master,Married,35536,Platinum,Online
+58,60631,14,62,1,North,Master,Divorced,7096,Bronze,In-Store
+50,149038,2,33,6,South,Master,Married,38953,Gold,Online
+57,121532,5,85,2,North,Master,Single,12855,Gold,In-Store
+56,40103,5,35,8,West,PhD,Divorced,44262,Platinum,In-Store
+35,84772,6,52,9,East,High School,Single,15460,Platinum,Online
+57,146108,13,34,4,North,High School,Divorced,34937,Silver,In-Store
+18,34382,9,41,5,West,Master,Divorced,22094,Gold,Online
+28,104291,15,51,8,East,High School,Single,40358,Bronze,Online
+45,121195,14,47,3,West,PhD,Single,28924,Gold,In-Store
+42,23756,7,82,5,East,High School,Single,18789,Platinum,In-Store
+67,40609,2,58,3,North,Bachelor,Married,1123,Silver,In-Store
+40,134074,7,75,3,West,High School,Divorced,49394,Gold,In-Store
+48,36478,6,57,3,South,Master,Divorced,6909,Bronze,Online
+47,120978,17,23,7,West,High School,Divorced,32854,Platinum,Online
+59,59666,2,48,7,East,High School,Single,4896,Silver,In-Store
+52,95683,3,22,7,North,High School,Divorced,41834,Gold,In-Store
+24,119097,5,17,8,East,High School,Divorced,43141,Bronze,In-Store
+33,144714,5,69,5,West,Bachelor,Single,18111,Platinum,Online
+43,120420,1,11,5,West,PhD,Single,8039,Bronze,In-Store
+65,91315,8,94,4,South,Master,Divorced,45844,Gold,Online
+69,97834,12,15,7,North,Master,Married,25099,Platinum,In-Store
+66,146205,4,91,4,North,High School,Single,4670,Gold,In-Store
+19,34153,13,35,2,West,PhD,Married,44335,Silver,Online
+18,129415,15,33,4,North,High School,Married,16029,Gold,Online
+65,96325,11,84,8,South,Bachelor,Married,32811,Silver,In-Store
+29,129701,10,16,9,East,PhD,Married,16793,Gold,Online
+22,32999,3,34,3,North,PhD,Single,42318,Bronze,Online
+54,75318,14,66,7,West,PhD,Divorced,49106,Bronze,In-Store
+49,20814,16,99,9,East,PhD,Divorced,21126,Platinum,Online
+26,135033,10,40,4,East,High School,Single,20228,Bronze,Online
+58,96077,10,28,3,South,Bachelor,Single,19595,Bronze,In-Store
+52,110474,12,47,5,West,PhD,Married,1972,Silver,In-Store
+36,22443,9,39,1,North,Master,Married,1360,Bronze,Online
+65,95993,1,70,3,West,Master,Single,3632,Silver,In-Store
+33,95916,5,73,8,East,Bachelor,Divorced,36958,Silver,Online
+20,93319,8,20,8,West,Master,Married,38716,Silver,Online
+37,145885,11,1,4,North,High School,Single,16346,Gold,Online
+41,129777,12,72,2,North,High School,Single,49322,Silver,In-Store
+50,37368,1,87,8,South,Bachelor,Single,19008,Gold,Online
+41,35328,11,63,8,North,PhD,Married,13120,Silver,Online
+69,76942,5,67,4,North,Master,Single,31283,Gold,Online
+28,111751,15,4,3,West,Master,Divorced,8818,Platinum,In-Store
+66,119131,5,58,2,West,Bachelor,Single,6119,Platinum,In-Store
+25,47306,12,25,9,East,Bachelor,Married,31579,Gold,In-Store
+53,105451,5,47,1,South,Master,Divorced,46721,Platinum,Online
+55,59915,17,38,7,West,PhD,Divorced,48668,Bronze,Online
+57,57219,17,15,5,North,Bachelor,Single,30837,Silver,In-Store
+37,100879,12,63,8,East,High School,Single,1975,Gold,Online
+52,131939,15,21,4,West,Master,Divorced,17265,Platinum,Online
+65,84644,15,99,7,South,Bachelor,Single,5318,Platinum,Online
+42,80279,6,57,5,South,Bachelor,Married,36081,Bronze,Online
+52,73028,12,53,5,East,Bachelor,Divorced,42515,Silver,In-Store
+42,124263,18,46,9,East,Master,Single,44069,Bronze,In-Store
+46,20126,14,14,9,East,High School,Divorced,48816,Gold,In-Store
+35,72329,2,76,9,East,High School,Single,14134,Platinum,Online
+63,47632,9,17,6,East,Master,Single,40432,Platinum,Online
+35,127099,5,39,6,North,Bachelor,Married,47150,Platinum,In-Store
+19,85310,1,9,5,North,Master,Single,11841,Bronze,In-Store
+52,129945,3,99,9,West,Master,Single,27135,Bronze,In-Store
+33,75176,6,77,8,South,Bachelor,Single,13427,Silver,Online
+58,139797,5,79,7,North,Master,Married,41251,Gold,In-Store
+53,106066,5,82,7,North,PhD,Single,35131,Silver,Online
+50,125500,1,97,6,North,High School,Single,37727,Silver,In-Store
+21,146413,17,6,5,West,PhD,Single,26165,Platinum,Online
+50,64327,19,91,4,East,PhD,Divorced,2749,Bronze,Online
+31,88904,14,23,3,West,PhD,Married,34308,Gold,In-Store
+38,23797,12,59,3,South,Master,Divorced,8634,Silver,Online
+65,67882,10,91,6,South,Bachelor,Married,11614,Gold,Online
+37,33718,18,98,4,South,Master,Married,25866,Platinum,In-Store
+25,54560,11,46,6,South,High School,Divorced,11282,Silver,In-Store
+24,96589,2,38,3,North,Master,Married,21319,Bronze,In-Store
+20,42116,18,14,4,North,Master,Married,37726,Silver,Online
+34,56244,7,72,9,West,Master,Divorced,16412,Platinum,Online
+50,121721,15,62,5,East,Master,Single,37627,Silver,In-Store
+65,21645,11,35,7,South,PhD,Married,9050,Platinum,In-Store
+29,67523,18,19,2,West,Bachelor,Divorced,25583,Silver,Online
+68,144085,12,30,5,North,High School,Married,19041,Gold,In-Store
+39,137718,6,78,9,North,High School,Divorced,7185,Bronze,In-Store
+39,39256,13,84,3,East,High School,Single,21812,Platinum,Online
+63,121376,16,25,9,East,Master,Married,26832,Gold,Online
+47,120158,18,40,6,East,High School,Single,18423,Platinum,In-Store
+55,73173,10,88,4,West,PhD,Single,48156,Silver,Online
+55,57430,8,14,7,North,Bachelor,Divorced,42644,Platinum,Online
+62,59282,18,26,8,North,Master,Married,37786,Platinum,In-Store
+68,139719,1,87,6,East,Master,Married,30665,Bronze,In-Store
+25,83374,8,22,5,South,PhD,Married,10989,Gold,In-Store
+44,88244,6,48,6,East,High School,Married,19208,Silver,Online
+44,31694,5,83,5,West,Master,Married,24054,Bronze,In-Store
+51,76264,15,51,8,East,Master,Divorced,31477,Platinum,Online
+38,95060,15,3,1,East,PhD,Married,31374,Bronze,In-Store
+47,117416,2,42,7,West,PhD,Single,42220,Platinum,Online
+50,77545,1,19,2,East,High School,Single,4571,Silver,Online
+45,138195,11,73,9,North,Bachelor,Married,20576,Platinum,In-Store
+64,59224,10,28,1,South,Bachelor,Divorced,10680,Bronze,Online
+50,122516,18,84,6,East,High School,Divorced,26706,Bronze,In-Store
+22,117945,18,45,9,West,Bachelor,Married,15318,Platinum,In-Store
+65,33224,17,71,1,South,PhD,Single,21659,Gold,Online
+36,60738,8,78,4,West,PhD,Married,6029,Bronze,Online
+21,45150,15,63,4,South,PhD,Married,49436,Gold,Online
+52,83731,8,73,9,South,Bachelor,Married,3774,Gold,In-Store
+66,69688,17,19,5,East,Bachelor,Divorced,17972,Gold,In-Store
+34,119929,12,47,5,North,Master,Divorced,15048,Gold,In-Store
+61,128618,8,14,6,East,Master,Single,34372,Bronze,In-Store
+45,93509,14,38,1,West,Master,Single,44188,Bronze,In-Store
+47,28577,4,53,1,West,Bachelor,Married,42133,Gold,In-Store
+46,28070,1,61,9,South,Master,Single,15689,Bronze,Online
+63,146161,1,36,3,South,PhD,Married,17737,Gold,In-Store
+23,28666,19,40,4,North,Bachelor,Single,17014,Gold,In-Store
+52,77761,16,81,1,East,High School,Married,22818,Gold,In-Store
+58,141178,14,30,9,West,Bachelor,Divorced,34201,Platinum,In-Store
+54,56368,16,9,8,South,Master,Married,12144,Silver,Online
+41,26783,5,64,2,North,Bachelor,Divorced,32001,Bronze,Online
+46,131530,9,33,8,West,Master,Divorced,1867,Bronze,Online
+66,61914,2,52,7,South,Master,Single,28182,Gold,In-Store
+63,90507,18,89,6,West,High School,Single,15340,Platinum,In-Store
+48,147738,6,14,1,North,High School,Divorced,12837,Platinum,In-Store
+52,99026,9,75,7,North,PhD,Married,48059,Bronze,Online
+50,135893,1,53,7,West,Master,Married,9787,Gold,In-Store
+69,131255,9,99,9,East,Bachelor,Single,1393,Bronze,In-Store
+38,130616,16,59,1,West,High School,Married,13056,Gold,Online
+49,87526,13,78,2,South,High School,Married,44160,Gold,Online
+40,90835,9,94,9,East,Master,Married,45957,Silver,In-Store
+50,65765,13,41,9,South,Bachelor,Divorced,29429,Gold,Online
+20,39956,9,68,6,West,High School,Divorced,46909,Silver,In-Store
+35,107895,11,68,6,East,High School,Married,32899,Bronze,In-Store
+42,66240,4,92,4,South,Bachelor,Single,33221,Bronze,Online
+59,141008,2,8,4,West,High School,Married,21754,Platinum,In-Store
+48,57148,6,2,5,West,Bachelor,Single,45389,Silver,Online
+20,114270,14,86,3,East,Master,Divorced,21905,Bronze,Online
+57,147978,4,41,1,West,High School,Married,25083,Silver,In-Store
+63,24757,6,55,1,North,Master,Married,42098,Bronze,Online
+41,39097,19,16,7,South,Bachelor,Single,30621,Silver,In-Store
+67,30395,6,93,1,South,Master,Single,21577,Silver,In-Store
+49,36241,2,62,1,West,Master,Married,37728,Gold,Online
+64,123892,18,48,3,West,Master,Married,1663,Bronze,Online
+39,47696,13,30,4,North,PhD,Single,48301,Platinum,Online
+40,135654,9,12,4,East,Bachelor,Divorced,20216,Gold,In-Store
+19,90480,19,35,2,West,Bachelor,Single,48259,Platinum,In-Store
+44,66163,13,11,1,West,Bachelor,Married,10265,Silver,In-Store
+59,39816,11,64,3,West,Bachelor,Divorced,5574,Gold,In-Store
+19,69840,1,50,4,West,Bachelor,Divorced,23755,Silver,In-Store
+43,122547,7,85,3,South,High School,Divorced,32241,Bronze,In-Store
+34,72853,15,21,8,West,High School,Divorced,23676,Bronze,In-Store
+57,44917,1,69,1,South,High School,Married,22561,Platinum,Online
+50,116731,12,48,2,West,Master,Divorced,25737,Bronze,In-Store
+26,41566,7,20,7,East,Master,Single,24390,Platinum,In-Store
+60,95452,15,67,4,North,Bachelor,Single,27076,Silver,Online
+65,82823,19,44,8,East,PhD,Single,6546,Gold,In-Store
+56,141392,1,33,3,West,Bachelor,Married,22280,Bronze,In-Store
+46,40806,17,73,6,West,High School,Divorced,33953,Silver,Online
+59,95520,17,61,9,West,Bachelor,Single,22037,Gold,In-Store
+43,21759,3,9,1,East,Master,Single,41576,Silver,Online
+52,146092,12,68,1,West,Bachelor,Single,29564,Platinum,In-Store
+67,61949,6,35,8,East,High School,Divorced,34597,Silver,In-Store
+42,112374,11,81,3,South,Bachelor,Single,20903,Platinum,Online
+41,22482,3,98,5,North,Master,Divorced,31806,Platinum,Online
+30,44442,8,88,1,North,PhD,Divorced,47328,Bronze,In-Store
+24,53719,14,96,5,East,High School,Divorced,25392,Platinum,In-Store
+53,78066,14,65,6,South,Bachelor,Married,29087,Platinum,Online
+62,113501,10,8,8,East,Master,Married,45288,Silver,In-Store
+37,22079,2,45,3,South,High School,Divorced,45308,Platinum,Online
+18,22717,14,87,3,West,High School,Divorced,23293,Platinum,Online
+25,79676,9,47,9,South,Master,Married,11677,Silver,Online
+63,47952,3,40,4,South,Bachelor,Married,13803,Gold,In-Store
+33,106444,8,76,4,South,Bachelor,Divorced,47656,Bronze,In-Store
+31,62460,16,54,7,North,Bachelor,Married,47002,Silver,In-Store
+29,110397,2,76,2,South,High School,Single,2225,Platinum,Online
+68,92847,6,46,8,West,PhD,Divorced,6774,Silver,In-Store
+40,113607,12,47,6,West,High School,Divorced,14043,Gold,Online
+32,109106,5,15,3,West,Bachelor,Married,17163,Silver,Online
+45,38449,2,19,9,South,High School,Single,3844,Silver,In-Store
+51,53536,16,26,5,East,PhD,Married,8347,Silver,In-Store
+19,84077,5,52,8,East,High School,Single,21804,Silver,Online
+49,58258,15,93,7,West,Master,Single,37764,Platinum,In-Store
+40,68302,12,22,8,North,Bachelor,Divorced,28246,Silver,Online
+39,145937,4,21,7,East,Bachelor,Single,43458,Gold,In-Store
+68,48865,15,51,3,South,Bachelor,Divorced,2688,Silver,Online
+42,26645,11,38,2,East,High School,Single,48055,Silver,In-Store
+39,139771,16,20,7,West,High School,Divorced,18251,Platinum,Online
+39,58000,6,29,3,North,High School,Single,13504,Platinum,In-Store
+66,46737,14,51,3,East,Bachelor,Married,40720,Silver,Online
+69,31485,18,4,2,East,High School,Single,28584,Platinum,Online
+59,58565,12,55,4,West,Bachelor,Married,45484,Platinum,Online
+23,45522,11,71,8,North,High School,Single,49531,Silver,Online
+32,139614,13,92,1,North,Bachelor,Single,39852,Platinum,Online
+60,85155,11,28,1,West,Master,Divorced,14219,Bronze,Online
+54,75168,16,4,5,South,High School,Single,43972,Bronze,In-Store
+50,72487,15,22,5,East,Bachelor,Single,25815,Bronze,Online
+25,149948,15,76,1,South,Master,Single,49865,Platinum,Online
+61,32342,4,45,6,East,Master,Married,25623,Bronze,In-Store
+61,60806,11,67,1,East,PhD,Divorced,37817,Gold,In-Store
+22,68770,19,86,5,South,High School,Divorced,4457,Bronze,Online
+56,98623,15,66,9,West,Bachelor,Single,28855,Gold,In-Store
+21,123177,4,88,5,West,PhD,Single,37258,Platinum,In-Store
+23,119785,13,34,6,East,High School,Married,16470,Bronze,Online
+62,95629,19,91,8,West,Master,Single,49957,Gold,Online
+49,140993,2,55,1,East,High School,Divorced,46930,Platinum,In-Store
+69,72603,14,1,2,West,Bachelor,Divorced,19281,Bronze,In-Store
+47,146944,4,72,9,East,Master,Married,12728,Silver,In-Store
+64,132726,16,87,3,West,PhD,Married,46680,Bronze,In-Store
+52,101974,14,38,6,North,High School,Divorced,39723,Bronze,In-Store
+57,125947,15,6,5,South,High School,Married,11162,Bronze,In-Store
+69,46399,3,86,2,North,PhD,Single,30272,Silver,Online
+33,148177,8,25,7,South,High School,Single,36488,Gold,In-Store
+30,105382,16,82,4,South,High School,Married,44341,Gold,Online
+67,101244,10,17,1,East,High School,Divorced,12338,Silver,Online
+59,129575,4,61,4,South,Master,Married,23296,Bronze,In-Store
+47,135520,18,12,6,North,Master,Divorced,12675,Bronze,Online
+36,130904,2,6,7,North,Bachelor,Married,25070,Bronze,In-Store
+34,96534,17,90,7,West,High School,Married,21080,Gold,Online
+36,75106,13,27,7,North,Bachelor,Married,48139,Gold,In-Store
+45,132599,4,8,3,West,Master,Single,14936,Silver,Online
+43,50678,11,83,6,South,High School,Single,11019,Platinum,In-Store
+54,96218,7,65,8,North,Bachelor,Divorced,42182,Silver,Online
+43,83230,12,57,4,South,High School,Married,2746,Gold,In-Store
+40,134684,10,93,8,North,High School,Single,23768,Bronze,Online
+26,94055,7,99,2,North,PhD,Married,9325,Bronze,Online
+29,76373,13,40,9,West,Bachelor,Divorced,45763,Bronze,Online
+18,51480,7,14,9,South,Master,Single,5486,Bronze,In-Store
+18,105230,17,35,8,North,Bachelor,Divorced,17485,Platinum,In-Store
+64,88836,10,48,1,East,Bachelor,Single,15328,Silver,In-Store
+51,92258,10,84,2,South,Bachelor,Married,20112,Silver,In-Store
+49,59986,4,56,6,South,PhD,Divorced,45001,Gold,In-Store
+65,44160,4,49,5,South,High School,Single,33280,Silver,Online
+42,105595,7,13,9,West,Master,Single,27576,Platinum,In-Store
+57,121358,1,61,5,East,PhD,Married,43528,Platinum,In-Store
+62,99111,12,49,2,South,Master,Divorced,16702,Platinum,Online
+18,84929,13,46,4,North,PhD,Divorced,22320,Bronze,In-Store
+33,93506,10,62,9,North,High School,Divorced,19437,Gold,In-Store
+56,54911,15,8,1,West,Master,Married,1193,Platinum,In-Store
+22,107127,13,43,1,North,Bachelor,Single,26317,Silver,In-Store
+39,51821,9,20,7,South,PhD,Single,29482,Silver,In-Store
+46,95039,9,97,3,North,Master,Divorced,20343,Silver,In-Store
+20,80535,15,90,2,South,High School,Single,30144,Platinum,Online
+29,133453,10,39,9,North,Master,Divorced,12612,Platinum,In-Store
+43,104458,10,85,3,East,PhD,Married,20307,Silver,In-Store
+33,32175,8,49,2,West,High School,Married,20623,Platinum,In-Store
+68,139235,16,64,8,West,Bachelor,Married,21249,Silver,Online
+54,74771,17,62,6,East,PhD,Divorced,9229,Bronze,Online
+39,126660,5,54,6,East,PhD,Single,27274,Platinum,Online
+46,147157,4,9,7,West,High School,Married,38334,Bronze,Online
+31,141300,18,88,7,East,PhD,Divorced,7595,Bronze,In-Store
+45,106925,19,37,6,South,Master,Divorced,29602,Platinum,Online
+22,133374,4,49,4,North,Bachelor,Married,39377,Silver,In-Store
+64,86358,7,41,9,West,Master,Married,38876,Gold,In-Store
+66,37327,10,17,6,East,High School,Married,35551,Bronze,In-Store
+47,67057,18,88,4,South,PhD,Single,43926,Platinum,Online
+63,26150,19,21,3,West,Bachelor,Single,25678,Bronze,In-Store
+69,24425,4,51,4,East,High School,Divorced,23214,Silver,Online
+22,143654,10,59,3,West,Master,Married,39599,Platinum,In-Store
+29,36032,1,39,2,East,PhD,Married,33809,Gold,Online
+33,22198,18,55,5,West,PhD,Single,44954,Platinum,Online
+43,80500,5,41,2,South,High School,Married,28794,Bronze,In-Store
+43,73394,15,39,6,South,Master,Divorced,23593,Platinum,In-Store
+65,40079,17,13,3,North,PhD,Married,29864,Platinum,In-Store
+38,56220,3,64,6,West,Master,Single,45329,Bronze,Online
+56,61874,12,11,9,North,Bachelor,Divorced,43636,Gold,Online
+53,33859,2,19,1,West,PhD,Divorced,4689,Silver,Online
+50,70460,1,11,6,East,Bachelor,Married,41363,Platinum,In-Store
+47,51419,17,77,9,East,PhD,Divorced,15687,Gold,Online
+54,138865,16,46,4,North,High School,Married,21381,Silver,In-Store
+40,28705,5,45,2,West,PhD,Married,34093,Bronze,Online
+27,62880,15,1,4,North,PhD,Single,24589,Gold,Online
+22,149838,3,40,1,South,Master,Divorced,2120,Gold,Online
+53,43236,7,19,3,North,Master,Married,17491,Platinum,In-Store
+51,107955,11,76,9,North,Bachelor,Married,44638,Bronze,In-Store
+69,105514,10,72,5,East,Bachelor,Married,40062,Platinum,In-Store
+48,123145,9,72,6,North,Bachelor,Divorced,6193,Bronze,Online
+27,35358,14,61,3,West,PhD,Divorced,24608,Silver,Online
+36,119713,13,12,5,East,PhD,Divorced,16213,Platinum,Online
+49,114914,2,61,8,North,Bachelor,Married,49379,Bronze,Online
+18,122870,3,33,6,South,High School,Divorced,15230,Bronze,In-Store
+22,96918,7,45,4,North,High School,Married,19423,Gold,Online
+62,139179,18,90,2,North,PhD,Divorced,18187,Platinum,Online
+21,136243,3,92,9,North,High School,Divorced,11040,Platinum,In-Store
+33,34596,10,69,1,East,High School,Married,1766,Silver,In-Store
+41,53572,7,8,1,West,Bachelor,Divorced,30949,Bronze,In-Store
+33,98757,9,25,4,South,High School,Married,47464,Gold,Online
+19,21279,17,91,7,North,High School,Divorced,4527,Bronze,In-Store
+66,83197,11,46,1,West,PhD,Divorced,12021,Bronze,Online
+45,131496,7,87,9,West,PhD,Divorced,18872,Bronze,In-Store
+49,82516,14,30,4,East,PhD,Divorced,37897,Platinum,Online
+44,27083,19,47,3,South,High School,Single,12758,Bronze,Online
+37,140674,4,87,1,East,Bachelor,Married,19757,Silver,Online
+41,140307,6,49,4,West,Master,Single,26412,Gold,Online
+29,146457,10,47,9,West,PhD,Divorced,15312,Gold,Online
+67,129397,7,84,6,West,PhD,Divorced,23119,Bronze,Online
+52,37771,13,82,6,East,PhD,Married,12804,Gold,In-Store
+50,49975,14,18,1,South,Bachelor,Married,47545,Bronze,Online
+50,65648,4,66,2,North,Master,Married,11983,Platinum,Online
+68,145641,8,68,6,East,Master,Married,30999,Gold,Online
+60,68285,5,94,2,West,PhD,Divorced,31557,Platinum,Online
+54,39063,1,33,3,East,High School,Married,40758,Platinum,In-Store
+29,87642,4,36,4,West,PhD,Single,29788,Silver,Online
+20,110093,3,82,5,North,PhD,Married,32950,Silver,Online
+18,134390,9,19,9,North,High School,Married,4983,Gold,In-Store
+50,106143,8,28,4,South,High School,Single,4768,Bronze,Online
+57,57599,1,40,9,West,PhD,Single,2504,Bronze,In-Store
+27,71920,6,84,3,South,Bachelor,Single,3450,Bronze,Online
+60,48529,9,97,8,South,Bachelor,Single,12236,Bronze,Online
+61,55954,7,76,1,North,High School,Married,9002,Silver,In-Store
+46,47856,4,15,9,East,PhD,Single,10891,Bronze,In-Store
+30,22573,13,41,9,East,Bachelor,Divorced,39787,Bronze,In-Store
+29,98344,17,39,2,South,PhD,Married,14898,Platinum,Online
+48,55367,2,2,4,North,PhD,Divorced,11472,Bronze,In-Store
+63,122337,5,63,8,West,PhD,Married,16264,Bronze,In-Store
+19,126732,12,29,7,East,Bachelor,Married,18691,Silver,Online
+68,119608,8,74,1,South,Master,Divorced,44487,Gold,Online
+67,80774,6,66,5,East,PhD,Single,33632,Platinum,Online
+52,43752,8,51,7,East,Bachelor,Single,34743,Platinum,In-Store
+40,75029,18,75,4,West,Master,Divorced,44016,Gold,Online
+34,37685,3,77,1,North,High School,Single,14002,Platinum,In-Store
+43,71693,12,10,9,West,Bachelor,Married,47981,Bronze,In-Store
+25,136739,3,14,5,North,Master,Married,44386,Bronze,In-Store
+46,75961,6,82,2,East,Bachelor,Married,29250,Gold,In-Store
+43,126937,2,51,8,South,Master,Single,44388,Silver,Online
+27,144956,12,73,2,West,Master,Single,22323,Silver,Online
+43,96908,2,39,3,North,Bachelor,Divorced,4733,Platinum,In-Store
+51,145537,6,28,1,East,High School,Married,42319,Silver,In-Store
+68,146678,17,3,2,North,PhD,Divorced,3223,Silver,Online
+58,94532,3,84,7,North,Master,Single,17868,Silver,Online
+24,101994,2,70,2,North,PhD,Divorced,35196,Silver,In-Store
+21,76133,8,27,6,East,High School,Single,3080,Silver,In-Store
+67,117425,12,2,3,South,PhD,Married,14776,Silver,In-Store
+62,145055,4,93,4,South,PhD,Married,1695,Silver,In-Store
+28,81268,5,38,8,South,Bachelor,Single,33969,Platinum,In-Store
+46,112201,13,3,3,North,Bachelor,Single,13049,Bronze,Online
+53,58243,15,16,6,East,High School,Single,16628,Silver,In-Store
+42,77384,16,94,1,North,Bachelor,Married,9265,Bronze,Online
+38,51653,10,40,7,South,Master,Single,25671,Gold,In-Store
+53,46657,16,2,8,South,High School,Married,13460,Bronze,Online
+27,59952,12,81,8,East,Bachelor,Divorced,4477,Gold,In-Store
+54,42180,17,41,3,North,Bachelor,Married,3202,Platinum,Online
+26,117432,16,12,1,West,High School,Divorced,49310,Bronze,Online
+41,141829,12,35,9,West,Master,Married,24874,Gold,In-Store
+52,148377,8,65,6,South,High School,Married,48392,Bronze,In-Store
+66,98411,3,55,9,East,Bachelor,Single,42217,Platinum,Online
+52,21622,16,45,7,North,Bachelor,Married,12850,Bronze,Online
+65,68756,13,79,1,North,High School,Single,40085,Gold,Online
+53,60809,19,90,1,South,Master,Single,21809,Silver,In-Store
+35,36725,8,85,6,South,Master,Single,6350,Silver,Online
+66,81396,5,62,5,North,PhD,Married,3806,Silver,In-Store
+56,71226,8,49,9,North,Master,Single,8163,Platinum,In-Store
+49,126296,12,95,2,South,High School,Divorced,29832,Silver,In-Store
+41,101182,1,25,8,North,Master,Divorced,1185,Platinum,In-Store
+40,102565,6,23,5,West,Master,Married,41838,Silver,In-Store
+49,49402,18,24,2,South,PhD,Single,25718,Platinum,In-Store
+54,24263,8,38,6,North,Master,Divorced,12545,Platinum,Online
+29,143489,7,28,8,South,PhD,Married,26215,Bronze,Online
+66,116523,1,21,4,East,PhD,Married,29325,Silver,In-Store
+30,66828,16,54,2,South,Master,Married,19458,Bronze,Online
+40,140824,12,18,5,South,Bachelor,Married,17006,Gold,Online
+42,67924,6,36,2,East,High School,Married,29544,Silver,In-Store
+52,94182,2,99,2,West,High School,Single,33969,Silver,Online
+58,113065,14,45,6,North,Master,Single,12284,Silver,In-Store
+47,79052,4,73,9,East,High School,Single,39478,Silver,In-Store
+34,31664,1,53,4,South,High School,Single,28655,Bronze,In-Store
+66,55737,18,30,6,North,PhD,Married,30143,Bronze,In-Store
+37,121332,13,60,7,East,Bachelor,Married,16698,Platinum,Online
+65,109563,2,98,6,North,High School,Divorced,35870,Bronze,Online
+42,49373,9,32,8,North,Bachelor,Divorced,10102,Platinum,In-Store
+39,137369,2,67,4,East,High School,Single,2571,Gold,Online
+30,56397,9,67,1,North,Bachelor,Married,38893,Bronze,In-Store
+36,148575,1,28,7,West,Bachelor,Divorced,40465,Platinum,In-Store
+66,106145,11,44,3,East,High School,Divorced,22553,Silver,Online
+53,121371,3,79,6,West,PhD,Divorced,19543,Gold,Online
+29,58709,4,41,2,South,Bachelor,Divorced,29901,Platinum,In-Store
+58,136074,18,63,9,North,Bachelor,Single,15034,Gold,Online
+36,81120,6,23,1,South,High School,Married,28120,Silver,In-Store
+29,39250,3,75,6,South,Bachelor,Single,2329,Silver,In-Store
+26,41172,11,48,6,North,Bachelor,Divorced,42420,Platinum,Online
+24,31555,15,32,5,East,PhD,Divorced,26382,Platinum,In-Store
+45,107410,5,57,5,North,Bachelor,Married,4699,Silver,Online
+31,98617,10,33,1,South,PhD,Married,39795,Platinum,In-Store
+48,73276,12,24,5,South,Bachelor,Single,11667,Silver,In-Store
+69,77492,15,39,2,East,Bachelor,Married,38591,Bronze,In-Store
+36,73002,17,34,7,North,PhD,Single,43115,Platinum,In-Store
+64,140103,10,56,3,South,PhD,Single,24459,Gold,In-Store
+33,144938,6,28,4,West,Master,Divorced,7959,Silver,Online
+22,109599,18,37,3,South,Bachelor,Single,30581,Bronze,In-Store
+52,92355,13,7,3,South,PhD,Divorced,47384,Platinum,Online
+29,111248,3,68,4,East,Bachelor,Single,7210,Silver,Online
+42,44762,10,37,5,West,Bachelor,Single,13517,Bronze,Online
+69,31046,14,56,1,South,Bachelor,Married,13620,Platinum,In-Store
+38,116999,6,65,4,South,High School,Married,37744,Silver,Online
+53,144130,3,65,8,West,Master,Divorced,23804,Silver,Online
+40,136021,16,47,7,North,High School,Married,31568,Silver,Online
+33,48769,7,20,9,North,Master,Single,18991,Platinum,In-Store
+56,73302,14,19,5,South,Bachelor,Divorced,9912,Bronze,In-Store
+62,43150,9,29,4,South,Bachelor,Divorced,33527,Silver,In-Store
+59,88247,15,74,8,North,PhD,Divorced,31863,Bronze,In-Store
+56,24853,3,60,9,East,Master,Single,45827,Bronze,Online
+31,114613,2,18,7,West,Master,Married,34458,Gold,In-Store
+48,140900,2,92,7,West,High School,Divorced,21407,Bronze,Online
+22,109399,3,35,5,East,Master,Single,13344,Bronze,In-Store
+52,41792,18,43,4,East,Bachelor,Married,37205,Bronze,Online
+40,79129,14,95,1,East,PhD,Married,3355,Bronze,In-Store
+46,126019,18,91,7,East,High School,Divorced,31893,Bronze,In-Store
+60,94478,10,11,1,East,PhD,Single,1749,Platinum,In-Store
+28,133811,2,49,1,East,Master,Married,20435,Gold,In-Store
+35,134130,1,38,5,West,Master,Single,46733,Silver,Online
+64,87298,4,64,9,East,High School,Married,46615,Gold,In-Store
+29,51987,14,69,6,North,Master,Divorced,39526,Gold,In-Store
+26,35850,1,8,3,East,PhD,Divorced,19088,Silver,In-Store
+27,32112,14,34,3,East,Bachelor,Married,45405,Bronze,Online
+61,141789,16,48,7,West,High School,Single,39842,Silver,In-Store
+34,44058,14,56,6,West,Master,Married,47146,Bronze,In-Store
+55,65420,3,76,9,East,PhD,Single,25403,Silver,Online
+24,58890,3,65,6,West,Bachelor,Married,48297,Platinum,Online
+63,86017,9,31,5,South,Master,Divorced,39042,Gold,Online
+30,67304,6,4,7,West,High School,Single,47775,Bronze,In-Store
+57,52921,13,50,1,West,Master,Divorced,40177,Gold,Online
+59,125921,2,69,7,West,Master,Single,40056,Bronze,In-Store
+26,21524,8,30,3,West,Master,Married,23713,Silver,Online
+67,120424,2,88,9,North,Bachelor,Divorced,1885,Silver,In-Store
+44,35048,4,59,6,North,Bachelor,Divorced,34632,Silver,Online
+19,55111,15,67,9,North,Master,Single,40685,Platinum,Online
+22,57904,4,75,5,East,Master,Single,12686,Silver,Online
+46,74912,13,45,7,East,High School,Single,4054,Silver,In-Store
+54,54008,12,4,4,South,Master,Divorced,9977,Platinum,Online
+55,20060,13,26,7,North,PhD,Married,26032,Gold,In-Store
+36,94666,14,27,1,East,PhD,Single,49967,Gold,Online
+25,103559,18,46,7,West,High School,Married,9536,Bronze,Online
+65,75337,6,64,8,West,Bachelor,Single,16070,Gold,Online
+62,130616,11,91,5,North,Master,Married,17937,Bronze,In-Store
+18,33350,2,51,2,South,High School,Single,22500,Bronze,In-Store
+39,44354,19,50,5,South,Bachelor,Married,41451,Gold,In-Store
+69,65186,19,6,6,West,High School,Divorced,11011,Gold,Online
+34,48145,5,59,2,South,Bachelor,Single,49039,Platinum,In-Store
+24,54020,19,15,6,North,Master,Single,9896,Bronze,In-Store
+42,106123,2,30,6,West,High School,Divorced,30799,Gold,Online
+62,126667,10,42,1,East,Master,Single,15582,Gold,Online
+21,95186,2,37,1,East,High School,Single,40958,Platinum,In-Store
+53,105469,11,42,3,South,Bachelor,Divorced,42912,Gold,In-Store
+23,40581,18,35,3,West,High School,Divorced,1814,Silver,Online
+48,108929,15,87,4,West,PhD,Married,10740,Silver,In-Store
+36,43051,9,6,2,East,PhD,Divorced,25719,Bronze,Online
+61,71474,19,68,9,West,High School,Divorced,36545,Platinum,Online
+56,111748,9,18,7,West,PhD,Single,21150,Gold,In-Store
+44,145995,3,73,7,West,Master,Divorced,5958,Bronze,In-Store
+27,134618,9,29,6,South,PhD,Single,4825,Gold,Online
+43,89626,14,77,3,West,PhD,Divorced,15800,Silver,In-Store
+36,26960,19,59,6,North,Master,Divorced,10999,Gold,Online
+56,55772,7,47,8,South,Master,Married,21854,Gold,In-Store
+20,41520,16,17,8,West,Bachelor,Divorced,46732,Gold,Online
+62,69481,16,96,9,West,Master,Divorced,28315,Silver,In-Store
+30,56408,1,22,1,North,High School,Single,40540,Silver,In-Store
+67,114006,4,68,1,South,PhD,Single,10481,Platinum,Online
+45,148496,4,69,3,East,Bachelor,Married,49505,Silver,In-Store
+37,77134,7,37,3,East,Master,Divorced,18246,Bronze,Online
+45,40491,8,49,8,South,PhD,Single,23601,Gold,In-Store
+25,21341,17,13,1,West,High School,Divorced,11677,Silver,In-Store
+58,64623,5,34,2,West,High School,Married,30552,Bronze,In-Store
+56,110327,7,86,2,East,Bachelor,Single,23322,Silver,In-Store
+18,20338,4,53,3,East,High School,Single,3355,Gold,Online
+20,91431,6,87,6,East,PhD,Married,10157,Bronze,Online
+30,32254,7,51,1,North,Master,Divorced,36163,Silver,In-Store
+45,71860,18,3,2,East,High School,Single,26914,Silver,Online
+66,31344,5,42,1,North,Master,Single,34292,Bronze,Online
+42,21750,3,98,5,South,PhD,Married,1561,Platinum,In-Store
+50,74756,7,32,7,West,PhD,Married,9167,Bronze,Online
+55,87957,14,51,8,East,Master,Married,17184,Bronze,Online
+23,125423,7,85,1,West,PhD,Divorced,25497,Bronze,In-Store
+61,78053,5,46,7,West,Bachelor,Divorced,24800,Bronze,In-Store
+62,90855,5,21,5,East,High School,Divorced,38432,Silver,In-Store
+49,35896,2,44,1,East,Bachelor,Married,2205,Bronze,In-Store
+62,75761,6,11,3,South,Bachelor,Single,13039,Bronze,Online
+64,82552,15,68,7,North,Bachelor,Divorced,46161,Gold,In-Store
+38,140075,10,1,1,North,Master,Married,36006,Silver,Online
+33,97454,7,92,7,West,Master,Divorced,18544,Gold,Online
+38,146522,5,63,5,East,PhD,Single,13987,Silver,In-Store
+28,138681,1,24,1,South,Master,Single,6239,Platinum,Online
+54,110600,13,99,1,South,PhD,Married,45785,Platinum,Online
+53,142732,18,13,1,South,Master,Single,24358,Silver,Online
+52,132153,13,98,9,South,PhD,Married,18138,Platinum,In-Store
+36,142926,18,11,3,South,High School,Married,23984,Platinum,Online
+37,47935,5,51,5,North,PhD,Married,29428,Silver,In-Store
+35,57641,13,17,9,North,High School,Married,10096,Bronze,In-Store
+64,49711,4,99,6,North,PhD,Single,48582,Gold,Online
+58,90342,17,82,9,East,Master,Single,25536,Silver,Online
+66,126896,3,86,8,West,Master,Single,47059,Silver,In-Store
+31,32182,17,24,8,South,High School,Single,3621,Silver,In-Store
+32,107833,11,19,1,East,Bachelor,Married,36958,Gold,In-Store
+48,76276,4,37,9,South,Bachelor,Married,4948,Silver,In-Store
+18,39541,2,85,6,North,PhD,Single,2287,Gold,In-Store
+20,114457,16,8,9,East,Master,Divorced,24902,Gold,Online
+33,102310,18,28,3,North,Bachelor,Divorced,48358,Platinum,In-Store
+40,64813,8,5,3,South,Master,Divorced,22164,Bronze,Online
+28,57198,3,17,6,South,Master,Single,16668,Platinum,In-Store
+29,28820,9,36,9,West,Master,Married,2772,Silver,Online
+27,44070,6,19,7,South,PhD,Married,33238,Silver,In-Store
+49,89768,10,64,3,North,High School,Divorced,39968,Gold,Online
+33,31122,10,91,3,South,PhD,Divorced,16762,Platinum,Online
+25,100559,13,98,2,West,Bachelor,Married,36906,Gold,In-Store
+55,93543,17,11,9,West,High School,Divorced,8213,Platinum,Online
+29,103441,9,54,3,North,Bachelor,Divorced,15941,Platinum,In-Store
+41,61786,17,45,5,East,High School,Married,31345,Platinum,In-Store
+45,114934,9,47,9,South,High School,Divorced,36184,Platinum,Online
+25,119804,9,12,8,West,PhD,Divorced,16964,Platinum,Online
+45,26737,1,21,2,South,Master,Single,27855,Bronze,In-Store
+53,56062,2,11,3,South,Master,Divorced,18968,Silver,In-Store
+43,74237,16,92,2,East,High School,Single,2046,Platinum,In-Store
+25,71571,1,5,8,West,PhD,Married,15909,Platinum,Online
+67,45510,10,81,6,South,Bachelor,Single,14578,Gold,Online
+45,39426,18,56,6,West,Bachelor,Married,24368,Silver,In-Store
+45,57265,8,20,9,North,Master,Single,29599,Silver,Online
+54,37850,11,41,8,North,Master,Single,6719,Silver,Online
+58,138249,2,46,4,South,Bachelor,Single,16960,Platinum,Online
+53,86150,8,12,4,West,Bachelor,Divorced,24606,Gold,In-Store
+44,107312,8,70,9,South,PhD,Divorced,49366,Silver,In-Store
+34,109613,17,17,1,West,Bachelor,Divorced,16624,Gold,Online
+26,94910,15,19,2,West,PhD,Divorced,40179,Bronze,Online
+50,72375,17,26,2,East,Master,Divorced,41842,Bronze,In-Store
+37,141826,13,48,6,East,Bachelor,Single,11352,Gold,Online
+30,55435,19,52,4,East,Master,Divorced,31885,Platinum,In-Store
+45,116443,5,96,3,South,High School,Married,16003,Silver,In-Store
+65,77132,12,70,3,East,High School,Single,10223,Bronze,In-Store
+46,98945,1,55,3,East,High School,Single,32433,Bronze,In-Store
+30,102050,5,75,6,North,Bachelor,Married,13718,Gold,In-Store
+63,149828,8,33,8,West,Master,Divorced,2315,Platinum,In-Store
+52,115402,13,62,7,West,Bachelor,Married,22553,Gold,In-Store
+23,22983,8,88,4,East,Master,Single,25682,Gold,Online
+35,117241,11,23,4,West,PhD,Single,20464,Gold,In-Store
+68,40662,1,15,2,North,Bachelor,Single,42704,Gold,Online
+22,43510,13,27,1,North,High School,Married,32419,Gold,Online
+64,98187,19,75,9,East,PhD,Divorced,14767,Platinum,Online
+42,60998,3,64,2,North,Master,Single,7466,Gold,In-Store
+19,76846,17,81,8,West,Bachelor,Divorced,32028,Platinum,Online
+27,114071,5,51,9,South,Master,Single,48953,Silver,In-Store
+47,26640,8,53,4,West,Master,Divorced,38858,Silver,In-Store
+67,64547,14,78,8,South,Bachelor,Married,5240,Silver,Online
+62,74620,4,91,9,East,Bachelor,Single,32459,Silver,Online
+22,35317,11,82,5,South,Master,Single,26396,Bronze,Online
+50,135608,15,92,7,North,Master,Single,17795,Platinum,Online
+18,27564,19,51,4,West,PhD,Married,25689,Silver,In-Store
+35,47345,7,47,1,South,High School,Married,15910,Bronze,Online
+49,133824,19,4,3,West,Master,Divorced,3446,Platinum,Online
+64,114223,19,7,5,East,High School,Married,4346,Bronze,Online
+66,143372,11,35,3,East,PhD,Single,46179,Bronze,Online
+28,99273,5,48,7,North,High School,Divorced,41517,Gold,Online
+38,94859,5,73,9,East,High School,Married,5142,Bronze,In-Store
+43,100765,8,72,6,South,PhD,Divorced,17070,Bronze,In-Store
+42,130017,10,45,1,East,Master,Divorced,47955,Platinum,In-Store
+39,94038,6,81,7,North,High School,Divorced,8087,Bronze,Online
+44,143618,15,81,3,West,Master,Single,24752,Gold,Online
+66,72393,16,97,5,West,Master,Single,16635,Silver,In-Store
+30,86081,17,96,4,East,Bachelor,Married,23218,Silver,In-Store
+50,145341,8,72,5,South,Master,Single,32873,Platinum,In-Store
+51,122650,8,19,5,North,Master,Divorced,49575,Platinum,In-Store
+58,49430,9,63,6,South,High School,Divorced,43965,Bronze,Online
+52,95532,2,38,6,North,Master,Single,46039,Platinum,Online
+18,47788,15,67,8,East,Master,Divorced,15724,Bronze,Online
+38,115505,18,59,8,North,Bachelor,Single,32351,Platinum,In-Store
+65,68543,3,69,9,North,Bachelor,Divorced,32433,Silver,In-Store
+23,33919,17,13,8,East,High School,Married,10261,Silver,In-Store
+45,89346,4,47,2,South,High School,Married,14479,Silver,Online
+34,116122,4,61,1,East,Bachelor,Single,16804,Silver,Online
+22,59974,14,31,2,North,Bachelor,Single,28245,Bronze,In-Store
+48,127309,9,80,2,East,PhD,Single,46101,Bronze,Online
+22,36371,9,96,3,North,Master,Single,13827,Bronze,In-Store
+55,65084,18,22,7,East,High School,Single,43368,Silver,In-Store
+20,49629,10,93,2,West,High School,Divorced,45700,Gold,In-Store
+40,71184,4,86,1,West,Master,Married,13040,Silver,Online
+54,81916,12,43,6,East,Master,Divorced,20477,Silver,In-Store
+54,147293,8,67,9,South,High School,Married,17127,Gold,In-Store
+27,93972,2,54,3,North,Bachelor,Divorced,22182,Gold,Online
+27,82187,13,10,6,West,Bachelor,Divorced,27049,Platinum,In-Store
+36,32984,16,42,3,South,Master,Divorced,25527,Silver,In-Store
+34,53039,2,64,1,North,High School,Single,13473,Gold,Online
+38,105431,11,21,5,West,Master,Married,17709,Platinum,In-Store
+31,103691,10,80,4,West,Bachelor,Single,34974,Gold,In-Store
+26,78606,15,76,7,East,PhD,Single,43464,Gold,In-Store
+63,30616,17,66,6,North,PhD,Divorced,14714,Platinum,Online
+18,122665,8,41,7,South,Bachelor,Married,35208,Silver,In-Store
+68,125373,18,24,5,South,Master,Married,32945,Platinum,In-Store
+62,70072,9,35,4,South,PhD,Married,22568,Silver,In-Store
+30,44574,8,56,7,North,Bachelor,Married,10147,Gold,Online
+21,23430,14,30,7,South,High School,Single,17267,Platinum,Online
+18,139123,18,57,6,South,Master,Single,42514,Bronze,Online
+66,32676,12,94,8,South,Master,Married,32452,Gold,In-Store
+57,30816,19,47,4,East,PhD,Single,6136,Platinum,Online
+49,52733,14,35,5,East,Master,Married,33579,Gold,In-Store
+51,105680,17,19,4,North,PhD,Single,32516,Platinum,Online
+45,22050,3,8,1,North,PhD,Divorced,12446,Silver,Online
+48,129996,7,26,8,South,Bachelor,Divorced,46099,Bronze,Online
+25,53933,17,71,1,East,PhD,Married,25524,Gold,Online
+56,44951,12,30,5,West,High School,Married,14188,Bronze,In-Store
+43,52413,9,7,6,West,Master,Single,39587,Silver,Online
+51,54801,15,67,6,South,PhD,Married,41837,Platinum,In-Store
+20,75619,18,65,5,South,Master,Married,46537,Bronze,In-Store
+67,52913,13,36,3,East,PhD,Single,6560,Platinum,In-Store
+29,132573,8,25,5,East,Bachelor,Married,46621,Silver,Online
+18,139076,14,37,8,East,High School,Married,44227,Gold,Online
+61,60600,8,1,2,North,Master,Divorced,37397,Silver,In-Store
+22,77775,14,15,6,North,Bachelor,Divorced,12657,Bronze,Online
+47,110816,7,37,9,South,Master,Divorced,39082,Bronze,In-Store
+47,149972,12,13,8,North,Bachelor,Married,19840,Bronze,Online
+34,110093,11,8,8,East,High School,Single,42430,Platinum,Online
+65,132590,11,5,8,East,PhD,Divorced,41397,Gold,In-Store
+64,55400,13,60,7,North,Bachelor,Married,12324,Bronze,Online
+40,24494,18,73,8,West,Master,Divorced,26247,Bronze,In-Store
+32,100688,2,1,6,South,Master,Single,18558,Bronze,In-Store
+54,142744,15,36,2,West,Bachelor,Single,20943,Silver,Online
+38,109431,18,35,2,South,High School,Single,40460,Bronze,Online
+31,94691,15,66,8,West,High School,Single,42986,Silver,Online
+19,117419,19,63,1,North,PhD,Single,45514,Bronze,In-Store
+28,128730,12,23,6,South,PhD,Single,16372,Silver,Online
+68,63001,13,9,6,South,Master,Married,13631,Platinum,Online
+56,87364,11,34,4,South,Master,Divorced,2472,Platinum,Online
+55,144988,5,46,3,East,PhD,Single,27955,Silver,Online
+51,65028,1,78,3,East,PhD,Divorced,48367,Gold,In-Store
+55,127434,3,4,1,West,PhD,Divorced,31802,Gold,Online
+67,117659,19,30,3,North,Bachelor,Married,5872,Silver,In-Store
+51,57573,7,95,4,East,PhD,Single,28547,Platinum,Online
+35,20806,12,75,5,South,Bachelor,Single,44341,Silver,Online
+47,144343,15,99,3,East,Bachelor,Married,14691,Gold,Online
+32,76638,5,72,6,North,PhD,Married,45250,Silver,In-Store
+44,148301,15,3,5,East,High School,Married,5753,Platinum,In-Store
+68,146295,8,14,3,South,High School,Married,2833,Gold,Online
+51,126506,10,60,6,West,Master,Married,39696,Gold,In-Store
+69,49757,16,77,6,South,PhD,Divorced,9645,Bronze,In-Store
+55,54636,8,45,8,North,Master,Married,40584,Bronze,Online
+50,100097,1,96,2,West,PhD,Single,31441,Gold,Online
+41,68280,12,34,1,East,Master,Single,41024,Gold,Online
+32,44262,5,45,4,East,Bachelor,Married,44317,Silver,Online
+47,100435,3,61,7,East,PhD,Married,16062,Platinum,Online
+59,82211,1,83,3,West,High School,Married,10635,Gold,Online
+68,74842,4,16,3,South,PhD,Married,21064,Platinum,In-Store
+34,148583,8,66,5,West,Master,Married,10940,Gold,Online
+22,76979,3,40,5,West,Master,Single,36169,Platinum,Online
+46,134524,10,17,3,North,Master,Divorced,14111,Bronze,Online
+21,101470,2,34,9,West,Master,Married,45131,Gold,Online
+27,58197,11,16,4,East,Master,Married,46200,Silver,In-Store
+34,61844,10,60,3,South,Master,Married,30739,Platinum,In-Store
+27,84754,14,66,2,South,High School,Single,43746,Gold,In-Store
+34,121868,7,66,9,South,Master,Single,18793,Bronze,Online
+37,54157,2,90,4,East,High School,Divorced,19146,Bronze,Online
+41,97129,9,13,3,East,PhD,Divorced,34677,Bronze,In-Store
+22,60042,16,56,7,East,Bachelor,Divorced,1760,Bronze,In-Store
+51,81665,13,31,8,East,High School,Divorced,24022,Gold,Online
+23,135512,9,34,2,East,PhD,Single,6612,Silver,Online
+19,136953,4,39,7,West,Bachelor,Divorced,37008,Platinum,Online
+30,102856,10,67,5,East,High School,Married,28265,Silver,Online
+60,47376,12,8,5,East,High School,Single,1530,Platinum,Online
+60,129049,17,87,3,East,PhD,Single,10551,Silver,In-Store
+65,75554,14,78,5,East,Master,Single,29394,Gold,Online
+28,34199,14,55,2,South,High School,Married,43987,Gold,In-Store
+68,138533,2,27,4,East,High School,Single,49984,Platinum,Online
+64,101412,11,93,6,West,PhD,Married,3560,Gold,In-Store
+40,70948,16,53,1,West,Master,Divorced,19561,Platinum,In-Store
+33,93781,19,39,4,West,Bachelor,Single,6103,Silver,In-Store
+48,92750,6,65,6,North,Master,Married,25090,Gold,Online
+28,86262,19,17,9,South,Master,Single,18921,Gold,Online
+33,137424,5,30,2,East,PhD,Divorced,43233,Platinum,Online
+25,66600,4,53,7,North,Master,Single,3781,Platinum,In-Store
+21,96898,15,13,6,East,PhD,Divorced,18330,Platinum,In-Store
+57,82483,4,21,2,North,Bachelor,Single,6257,Platinum,Online
+21,38297,10,19,8,North,High School,Married,35956,Bronze,In-Store
+42,50448,3,53,7,West,High School,Divorced,39831,Platinum,In-Store
+20,46172,5,19,5,West,PhD,Single,16615,Bronze,In-Store
+49,62874,6,57,5,North,PhD,Divorced,1881,Silver,In-Store
+20,27657,8,25,7,West,Master,Divorced,2847,Platinum,Online
+44,104386,7,86,9,North,Master,Married,40367,Bronze,In-Store
+46,145617,10,31,9,South,High School,Married,23110,Bronze,Online
+49,45425,6,81,9,West,High School,Married,38336,Bronze,In-Store
+67,46685,14,55,6,West,High School,Married,17314,Gold,In-Store
+68,142000,4,23,6,West,PhD,Divorced,31118,Bronze,Online
+36,132855,13,32,3,South,Bachelor,Divorced,40931,Platinum,In-Store
+38,44578,17,62,1,North,Bachelor,Single,44924,Platinum,Online
+22,48831,7,74,7,East,PhD,Single,23966,Platinum,Online
+35,27906,4,10,4,West,Master,Single,45023,Bronze,Online
+45,81413,14,72,1,North,Bachelor,Married,12320,Bronze,Online
+59,74028,3,54,8,South,Master,Divorced,3216,Gold,Online
+39,27287,5,52,6,East,High School,Divorced,26564,Silver,Online
+38,53660,16,20,6,West,High School,Single,39469,Gold,Online
+23,95758,4,32,2,South,Master,Single,25401,Platinum,In-Store
+18,80504,2,14,1,South,High School,Divorced,12780,Platinum,Online
+22,79720,18,50,2,East,PhD,Married,11694,Platinum,In-Store
+58,122979,19,28,4,North,Master,Single,5809,Gold,In-Store
+29,54701,19,53,2,West,Master,Single,17562,Platinum,In-Store
+43,103300,17,24,1,West,Master,Divorced,48160,Platinum,Online
+63,130177,14,79,7,North,Bachelor,Divorced,33441,Platinum,Online
+51,37674,19,22,8,North,Master,Single,41539,Bronze,In-Store
+66,103560,13,30,6,North,Master,Single,2929,Silver,Online
+31,131543,12,63,4,East,Master,Married,30617,Bronze,In-Store
+43,43874,6,4,6,East,Bachelor,Married,48074,Bronze,In-Store
+62,63642,4,77,3,West,High School,Married,15244,Silver,In-Store
+44,143867,19,59,8,East,Bachelor,Married,33879,Silver,Online
+26,117820,16,87,2,South,PhD,Single,45179,Gold,In-Store
+43,85160,13,8,5,West,Master,Single,12116,Silver,Online
+64,37602,4,82,1,East,PhD,Single,23418,Gold,In-Store
+39,123320,17,12,6,North,Bachelor,Married,16707,Gold,Online
+64,108801,1,31,2,South,High School,Single,18765,Bronze,In-Store
+47,45931,18,78,4,North,High School,Divorced,36895,Platinum,Online
+60,114377,17,34,6,West,Master,Married,14100,Bronze,In-Store
+65,49192,15,82,8,North,High School,Divorced,24867,Bronze,Online
+34,66542,11,98,8,East,Bachelor,Married,44971,Silver,Online
+43,147015,13,75,6,East,Bachelor,Single,2208,Silver,Online
+53,62520,1,76,4,West,High School,Married,45085,Gold,In-Store
+18,84772,17,49,8,North,Master,Divorced,1036,Gold,In-Store
+25,78762,6,79,8,West,Master,Married,19212,Gold,In-Store
+66,70106,4,57,1,North,Bachelor,Divorced,12252,Silver,Online
+52,101121,16,95,4,South,High School,Single,20725,Gold,Online
+69,45559,15,93,4,East,Bachelor,Divorced,8006,Gold,In-Store
+32,125595,15,26,7,West,Bachelor,Single,48835,Silver,In-Store
+64,53742,6,18,7,South,PhD,Divorced,25059,Platinum,Online
+39,89669,15,96,8,South,Bachelor,Single,6347,Bronze,In-Store
+31,100199,14,86,5,West,Master,Divorced,33171,Silver,Online
+43,41754,11,38,7,West,High School,Single,29517,Gold,Online
+45,23972,7,81,8,South,High School,Single,25274,Bronze,Online
+40,90831,9,87,9,North,PhD,Single,34577,Silver,In-Store
+31,132217,16,88,3,South,PhD,Divorced,28648,Bronze,Online
+41,61873,5,50,3,West,Master,Divorced,5118,Bronze,In-Store
+19,114661,10,8,4,South,PhD,Single,18910,Platinum,Online
+62,126532,18,41,5,North,Bachelor,Married,14083,Gold,In-Store
+43,146267,3,6,1,East,Bachelor,Single,14187,Silver,In-Store
+31,29903,13,69,7,East,Master,Married,1424,Gold,Online
+68,23020,11,44,9,South,High School,Single,27641,Platinum,Online
+24,61755,17,64,8,North,Master,Divorced,35750,Platinum,Online
+20,105956,13,29,5,East,PhD,Married,16918,Silver,Online
+64,106988,6,28,4,South,High School,Divorced,24154,Silver,In-Store
+40,65648,17,11,7,South,High School,Married,49166,Platinum,In-Store
+63,123537,13,65,5,North,High School,Married,12992,Silver,In-Store
+60,145991,19,19,7,West,PhD,Married,35001,Bronze,In-Store
+64,29516,19,9,1,South,Bachelor,Married,43757,Bronze,In-Store
+62,132863,10,27,1,West,Bachelor,Divorced,15546,Platinum,Online
+35,135005,3,34,3,West,PhD,Married,42524,Gold,Online
+55,22396,14,44,2,East,PhD,Single,4019,Silver,In-Store
